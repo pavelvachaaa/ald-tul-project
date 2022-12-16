@@ -2,8 +2,9 @@
 
 #### Členové týmu
 *   Pavel Vácha
-*   Adam Sucharda
 *   Petr Boháč
+*   Jakub Káčerek
+*   Adam Sucharda
 *   Marcel Horváth
 
 ### Popis aplikace
