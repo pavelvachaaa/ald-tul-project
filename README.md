@@ -7,7 +7,7 @@
 *   Marcel Horváth
 
 ### Popis aplikace
-Uživatel přijde na stránku `ald.pavel-vacha.cz`, kde se mu zobrazí `15x15` grid (úprava se dá provést manálně v kódu) a klikne na tlačítko `Generate`.
+Uživatel přijde na stránku [ald.pavel-vacha.cz](https://ald.pavel-vacha.cz), kde se mu zobrazí `15x15` grid (úprava se dá provést manálně v kódu) a klikne na tlačítko `Generate`.
 
 Pro aplikaci bylo využito technologie Vue3.
 ### Popis algoritmu
