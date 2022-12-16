@@ -1,8 +1,7 @@
 <template>
 
 
-
-  <TileMap :numberOfColumns="15" :numberOfRows="15" />
+  <TileMap :numberOfColumns="15" :numberOfRows="15"/>
 
   <!-- Uvědomuji si, že by to mělo být v komponentě, ale pro tenhle projekt jebat -->
   <footer class="footer" style="margin-top:30vh;">
@@ -25,13 +24,14 @@
           <li>
             <a href="#">Pavel Vácha</a>
           </li>
-
+          <li>
+            <a href="#">Petr Boháč</a>
+          </li>
           <li>
             <a href="#">Adam Sucharda</a>
           </li>
-
           <li>
-            <a href="#">Petr Boháč</a>
+            <a href="#">Jakub Káčerek</a>
           </li>
           <li>
             <a href="#">Marcel Horváth</a>
@@ -96,7 +96,6 @@ export default {
     }
   }
 }
-
 
 
 </script>
